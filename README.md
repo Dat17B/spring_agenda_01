@@ -2,7 +2,7 @@
 
 * [Hello Spring](https://github.com/Dat17B/spring_agenda_01_hello/blob/master/README.md)
 * [My First Website](https://github.com/Dat17B/spring_agenda_01_first_website)
-* [Spring Framework elements explained](https://github.com/StudentsAdministration/03_spring_framework_elements_explained/blob/master/README.md)
+* [Spring Framework elements explained](https://github.com/Dat17B/spring_agenda_01_spring_framework_elements_explained/blob/master/README.md)
 <!--* [My First Website](https://github.com/dat17v1/2_03_my_first_website/blob/master/README.md)-->
 
 ## Exercise
